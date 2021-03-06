@@ -1,6 +1,6 @@
 #  Ryadomteka
 Ryadomteka - your health is most valuable!
-- Front-end: Vue.js
+- Front-end: Android studio/Java
 - Backend: Django(DRF) without ORM
 - DB: Oracle (18c)
 
