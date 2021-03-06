@@ -7,7 +7,7 @@ Ryadomteka - your health is most valuable!
 ## Introduction 
 The whole world is now in the state of a global pandemic. People were afraid of the opportunity to freely move and independently  decide their actions. Not a single sick person will go out individually to get the pharmacy and purchase his own medicine, without help. It is possible to save energy and health if there will be a system that helps in choosing medicines and not only in choosing, but also in ordering and on delivery to home. Tragically, there's no such framework in Kazakhstan to illuminate this issue. In addition, even if they do exist, they do not give you complete control with information.
 
-For this situation we provide a web site that will make life easier for almost everyone, regardless of age and we believe that this system will have a huge weighty role in the life of every citizen of Kazakhstan. The system is based on pharmacy and medicine data in Kazakhstan.
+For this situation we provide a mobile app that will make life easier for almost everyone, regardless of age and we believe that this system will have a huge weighty role in the life of every citizen of Kazakhstan. The system is based on pharmacy and medicine data in Kazakhstan.
 
 **The whole functionality is of our site:**
 
