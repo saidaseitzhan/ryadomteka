@@ -132,3 +132,13 @@ Primary keys:
 13. Withdraw pharmacies with the highest amount of income that users who registered no more than 7 days ago, in category Y in city X, where the form of release of drugs is "Таблетки, покрытые оболочкой". 
 14. Display the most profitable day of a pharmacy located in city X, in which there are fewer drugs than in the rest. 
 15. Find a pharmacy that sells medicines produced in country X and which are open until 20:00 in city Y.
+
+
+## Entity Relationship Diagram
+
+We desided to make in this design and color-spector to be more user-friendly. 
+1. Green - name of our online pharmacy;
+2. Blue - name of our entities;
+3. Yellow - attributes;
+4. Purple - actions;
+In ER diagram we have 9 entities. Each entity is our table. You can notice that in diagram we made everywhere "one to many" relationship. It because we have one online pharmacy and many user, pharmacy,drugs.
